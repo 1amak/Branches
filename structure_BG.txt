@@ -1,0 +1,8 @@
+1) Summary;
+2) Environment;
+3) Steps to reproduce;
+4) Attachment;
+5) Severity;
+6) Priority;
+7) Actual result;
+8) Expected result.
