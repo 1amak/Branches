@@ -5,4 +5,4 @@
 5) Severity;
 6) Priority;
 7) Actual result;
-8) Expected result.
+8) Expected result
